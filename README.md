@@ -14,33 +14,43 @@ Analysis:
 Gender Count:
 Visualization of loan applicants categorized by gender.
 Analysis of gender-based disparities in loan approval rates.
+
 Married Count:
 Examination of marital status distribution among loan applicants.
 Assessment of the impact of marital status on loan approval.
+
 Dependency Count:
 Analysis of the number of dependents for each loan applicant.
 Identification of dependencies' influence on loan approval.
+
 Education Count:
 Categorization of loan applicants based on their education levels.
 Exploration of the correlation between education level and loan approval rates.
+
 Applicant Income:
 Visualization of the distribution of applicant incomes.
 Assessment of the relationship between income levels and loan approval.
+
 Loan Sanction:
 Representation of the proportion of approved and rejected loan applications.
 Identification of trends or patterns in loan sanction decisions.
+
 Property Count (Urban, Semi-Urban, Rural):
 Examination of the distribution of loan applicants based on property location.
 Analysis of how property location influences loan approval rates.
+
 Education vs. Loan:
 Comparison of education levels of applicants with loan approval status.
 Determination of any preference for approving loans based on education.
+
 Credit History:
 Visualization of the credit history of loan applicants.
 Understanding the significance of credit history in loan approval decisions.
+
 Loan Term:
 Analysis of the distribution of loan terms.
 Assessment of whether loan term length impacts approval decisions.
+
 Results:
 The analysis revealed several key insights:
 
