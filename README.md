@@ -55,10 +55,17 @@ Results:
 The analysis revealed several key insights:
 
 Gender disparities exist in loan application rates, potentially impacting approval rates.
+
 Marital status appears to have a minimal effect on loan approval.
+
 Applicants with fewer dependents tend to have higher approval rates.
+
 Higher education levels correlate with increased chances of loan approval.
+
 Applicant income positively influences loan approval.
+
 Property location affects loan approval rates, with urban properties showing higher approval rates.
+
 Credit history plays a crucial role in loan approval decisions.
-Loan term length variation does not significantly affect approval rates.# Loan-Application_Casestudy
+
+Loan term length variation does not significantly affect approval rates.
